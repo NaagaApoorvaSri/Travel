@@ -39,7 +39,7 @@
   
   .hero {
     height: 100vh;
-    background: url('https://t3.ftcdn.net/jpg/07/80/95/16/360_F_780951672_cJzVeOxybkHkCkFDIOGUAlcq2ADIHVO7.jpg') no-repeat center center/cover;
+    background: url('./https://t3.ftcdn.net/jpg/07/80/95/16/360_F_780951672_cJzVeOxybkHkCkFDIOGUAlcq2ADIHVO7.jpg') no-repeat center center/cover;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -130,7 +130,7 @@
   }
 
   .about{
-    background: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVig2sLmojhgOAU738NoZrAz16RWFxt5o9nQ&s') no-repeat center center/cover;
+    background: url('./https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVig2sLmojhgOAU738NoZrAz16RWFxt5o9nQ&s') no-repeat center center/cover;
     padding-bottom: 50px;
   }
   
@@ -147,7 +147,7 @@
 
   .testimonials{
     padding-top: 20px;
-    background: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjLTtRsq5KMFxVnxy2AXhQR_NZgUotFpQODA&s') no-repeat center center/cover;
+    background: url('./https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjLTtRsq5KMFxVnxy2AXhQR_NZgUotFpQODA&s') no-repeat center center/cover;
   }
   
   .testimonial-box {
